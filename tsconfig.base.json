@@ -21,5 +21,7 @@
     "target": "es2022",
     "types": [],
     "customConditions": ["workspace"]
-  }
+    {
+  "packageManager": "pnpm@7.5.1"
 }
+  
